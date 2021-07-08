@@ -1,6 +1,6 @@
 <h1> <img src="./imgs/giphy.gif" width="80px" height="80px" />  Olá, eu sou a Janna 👋 </h1>
 
-<h3> 🪐 Conheça-me um pouquinho: </h3>
+<h3> Conheça-me um pouquinho: </h3>
 
 <ul>
   <li>✅ Curso técnico em informática/programação. </li>
@@ -9,7 +9,7 @@
   <li>🔍 Pesquisadora. </li>
 </ul>
 
-<h4> Informações não tão necessárias: </h4>
+<h3> Informações não tão necessárias: </h3>
 <ul>
   <li> ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII</li>
   <li> 🐶 Tenho um cachorro muito fofo chamado Simon </li>
@@ -20,7 +20,7 @@
 <a href="https://instagram.com/jnnastti"><img src="./imgs/instagramm.png" /></a> &nbsp &nbsp &nbsp
 <a href="https://twitter.com/jnnastti"><img src="./imgs/twitter.png" /></a>
 
-<h3> ✨ Linguagens e ferramentas: </h3>
+<h3> Linguagens e ferramentas: </h3>
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
