@@ -1,4 +1,4 @@
-<img src="./giphy.gif" width="80px" height="80px" /> <h1> Olá, eu sou a Janna</h1>
+<h1> <img src="./giphy.gif" width="80px" height="80px" />  Olá, eu sou a Janna</h1>
 
 <!--
 **jnnastti/jnnastti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
