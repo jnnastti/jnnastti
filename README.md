@@ -15,7 +15,7 @@
   <li> 🐶 Tenho um cachorro muito fofo chamado Simon </li>
   <li> 📚 Adoro ler </li>
 </ul>
-<h3> 🌍 Outros lugares que você pode me encontrar: </h3>
+<h3> Outros lugares que você pode me encontrar: </h3>
 &nbsp &nbsp &nbsp &nbsp <a href="https://www.linkedin.com/in/jannaina-sangaletti-3a8b47171/"><img src="./imgs/linkedinn.png" /></a> &nbsp &nbsp &nbsp
 <a href="https://instagram.com/jnnastti"><img src="./imgs/instagramm.png" /></a> &nbsp &nbsp &nbsp
 <a href="https://twitter.com/jnnastti"><img src="./imgs/twitter.png" /></a>
