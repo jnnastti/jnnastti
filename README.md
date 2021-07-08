@@ -9,6 +9,11 @@ do que desejo para meu futuro. </p>
 <p> Atualmente trabalho como desenvolvedora front-end, onde utilizamos JavaScript, e também faço projetos pessoais com PHP ou outras 
 linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho para alcançar. </p>
 
+<ul>
+  <li> ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII</li>
+  <li> 🐶 Tenha um cachorro chamado Simon </li>
+  <li> 📚 Adoro ler </li>
+</ul>
 <h3> 🌍 Outros lugares que você pode me encontrar: </h3>
 &nbsp &nbsp &nbsp &nbsp <a href=""><img src="./imgs/instagram.png" /></a> &nbsp &nbsp &nbsp
 <a href=""><img src="./imgs/linkedin.png" /></a> &nbsp &nbsp &nbsp
