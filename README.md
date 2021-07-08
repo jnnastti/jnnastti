@@ -11,23 +11,15 @@ parar por aqui, ainda tenho muito a aprender e um sonho para alcançar. </p>
 
 <h3> 🌍 Outros lugares que você pode me encontrar: </h3>
 
+<p> Você pode me encontrar e seguir em outras redes sociais. </p>
+<a href=""><img src="./imgs/instagram.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/linkedin.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/discordia.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/twitch.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/steam.png" /></a>
+
 <h3> ✨ Linguagens e ferramentas: </h3>
-<a href=""><img src="./imgs/instagram.png" /></a>
-<a href=""><img src="./imgs/linkedin.png" /></a>
-<a href=""><img src="./imgs/discordia.png" /></a>
-
-
-<!--
-**jnnastti/jnnastti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href=""><img src="./imgs/php.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/javascript.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/html.png" /></a> &nbsp &nbsp &nbsp
+<a href=""><img src="./imgs/css.png" /></a> &nbsp &nbsp &nbsp
