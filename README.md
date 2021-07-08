@@ -11,7 +11,7 @@ linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho p
 
 <ul>
   <li> ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII</li>
-  <li> 🐶 Tenha um cachorro chamado Simon </li>
+  <li> 🐶 Tenha um cachorro muito fofo chamado Simon </li>
   <li> 📚 Adoro ler </li>
 </ul>
 <h3> 🌍 Outros lugares que você pode me encontrar: </h3>
@@ -22,12 +22,17 @@ linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho p
 <a href=""><img src="./imgs/steam.png" /></a>
 
 <h3> ✨ Linguagens e ferramentas: </h3>
-&nbsp &nbsp &nbsp &nbsp <a href=""><img src="./imgs/php.png" /></a> &nbsp &nbsp &nbsp
-<a href=""><img src="./imgs/javascript.png" /></a> &nbsp &nbsp &nbsp
-<a href=""><img src="./imgs/html.png" /></a> &nbsp &nbsp &nbsp
-<a href=""><img src="./imgs/css.png" /></a> &nbsp &nbsp &nbsp
 
-<br/><br/>
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+
+<br/>
 
 [![jnnastti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnastti&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=omni)](https://github.com/jnnastti/github-readme-stats)
 
