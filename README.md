@@ -16,8 +16,8 @@ linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho p
   <li> 📚 Adoro ler </li>
 </ul>
 <h3> 🌍 Outros lugares que você pode me encontrar: </h3>
-&nbsp &nbsp &nbsp &nbsp <a href="https://www.linkedin.com/in/jannaina-sangaletti-3a8b47171/"><img src="./imgs/linkedin.png" /></a> &nbsp &nbsp &nbsp
-<a href="https://instagram.com/jnnastti"><img src="./imgs/instagram.png" /></a> &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp &nbsp <a href="https://www.linkedin.com/in/jannaina-sangaletti-3a8b47171/"><img src="./imgs/linkedinn.png" /></a> &nbsp &nbsp &nbsp
+<a href="https://instagram.com/jnnastti"><img src="./imgs/instagramm.png" /></a> &nbsp &nbsp &nbsp
 <a href="https://twitter.com/jnnastti"><img src="./imgs/twitter.png" /></a>
 
 <h3> ✨ Linguagens e ferramentas: </h3>
