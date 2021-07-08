@@ -2,12 +2,12 @@
 
 <h3> 🪐 Conheça-me um pouquinho: </h3>
 
-<p> Sou formada no curso técnico em informática/programação e atualmente estou graduando ciência da computação. Desde mais nova tive 
-interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a ter certeza 
-do que desejo para meu futuro. </p>
-
-<p> Atualmente trabalho como desenvolvedora front-end, onde utilizamos JavaScript, e também faço projetos pessoais com PHP ou outras 
-linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho para alcançar. </p>
+<ul>
+  <li>✅ Curso técnico em informática/programação. </li>
+  <li>🍄 Graduando Ciência da computação. </li>
+  <li>💻 Desenvolvedora front-end. </li>
+  <li>🔍 Pesquisadora. </li>
+</ul>
 
 <h4> Informações não tão necessárias: </h4>
 <ul>
