@@ -33,6 +33,6 @@ linguagens. Não quero parar por aqui, ainda tenho muito a aprender e um sonho p
 
 <br/>
 
-[![jnnastti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnastti&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=omni)](https://github.com/jnnastti/github-readme-stats)
+[![jnnastti's GitHub stats](https://github-readme-stats.vercel.app/api?username=jnnastti&hide=prs,issues&count_private=true&show_icons=true&include_all_commits=true&theme=slateorange)](https://github.com/jnnastti/github-readme-stats)
 
 
