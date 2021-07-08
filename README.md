@@ -1,4 +1,4 @@
-### <img src="./giphy.gif" />Hi there 👋
+### <img src="./giphy.gif" width="80px" height="80px" />Hi there 👋
 
 <!--
 **jnnastti/jnnastti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
