@@ -12,7 +12,7 @@
 <h4> Informações não tão necessárias: </h4>
 <ul>
   <li> ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII</li>
-  <li> 🐶 Tenha um cachorro muito fofo chamado Simon </li>
+  <li> 🐶 Tenho um cachorro muito fofo chamado Simon </li>
   <li> 📚 Adoro ler </li>
 </ul>
 <h3> 🌍 Outros lugares que você pode me encontrar: </h3>
