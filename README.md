@@ -2,12 +2,14 @@
 
 <h3> Conheça-me um pouquinho: </h3>
 
-<ul>
-  <li>✅ Curso técnico em informática/programação. </li>
-  <li>🍄 Graduando Ciência da computação. </li>
-  <li>💻 Desenvolvedora front-end. </li>
-  <li>🔍 Pesquisadora. </li>
-</ul>
+<p>
+  Sou formada no curso técnico em <b>informática/programação</b> e atualmente estou graduando <b>Ciência da computação</b> na UNESC onde também desenvolvo <b>pesquisas</b> orientadas. 
+  Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
+  ter certeza do que desejo para meu futuro. <br/><br/>
+
+  Atualmente trabalho como desenvolvedora <b>front-end</b>, onde utilizamos JavaScript, e também faço projetos pessoais com PHP e outras linguagens.
+  Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar. <br/> <br/>
+</p>
 
 <h3> Informações não tão necessárias: </h3>
 <ul>
@@ -29,6 +31,7 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <br/>
