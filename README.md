@@ -7,7 +7,7 @@
   Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
   ter certeza do que desejo para meu futuro. <br/><br/>
 
-  Atualmente trabalho como desenvolvedora <b>front-end</b>, onde utilizamos JavaScript, e também faço projetos pessoais com PHP e outras linguagens.
+  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos C# e .NET, porém trabalhei como <b>front-end</b> por um ano, onde utilizei JS e também faço projetos pessoais com PHP e outras linguagens.
   Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar. <br/> <br/>
 </p>
 <div align="center">
