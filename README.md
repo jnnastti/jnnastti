@@ -15,7 +15,7 @@
 |<h3> Informações não tão necessárias: </h3> | <h3> Outros lugares que você pode me encontrar: </h3> |
 | :--- | :--- |
 | ⚔ Gosto de jogar Lightning Returns: Final Fantasy XIII |  _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://www.linkedin.com/in/jannaina-sangaletti-3a8b47171/"><img src="./imgs/linkedinn.png" /> LinkedIn</a> |
-| 🐶 Tenho um cachorro muito fofo chamado Simon | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://twitter.com/jnnastti"><img src="./imgs/twitter.png" /> Twitter </a> |
+| 🐶 Tenho um cachorro muito fofo chamado Simon | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://twitter.com/janna_end"><img src="./imgs/twitter.png" /> Twitter </a> |
 | 📚 Adoro ler | _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ _&nbsp;_ <a href="https://instagram.com/jnnastti"><img src="./imgs/instagramm.png" /> Instagram </a> |
 
   <br>
@@ -31,6 +31,7 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
   </div>
