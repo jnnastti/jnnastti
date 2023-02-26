@@ -3,11 +3,11 @@
 <h3> Conheça-me um pouquinho: </h3>
 
 <p>
-  Sou formada no curso técnico em <b>informática/programação</b> e atualmente estou graduando <b>Ciência da computação</b> na UNESC onde também desenvolvo <b>pesquisas</b> orientadas. 
+  Sou formada no curso técnico em <b>informática/programação</b> e atualmente estou graduando <b>Ciência da computação</b> na UNESC onde também já colaborei com <b>pesquisas</b> orientadas. 
   Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
   ter certeza do que desejo para meu futuro. <br/><br/>
 
-  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos C# e .NET, porém trabalhei como <b>front-end</b> por um ano, onde utilizei JS e também faço projetos pessoais com PHP e outras linguagens.
+  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando um ano de front com JS e back com C# e .NET.
   Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar. <br/> <br/>
 </p>
 <div align="center">
