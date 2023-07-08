@@ -10,6 +10,10 @@
   Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando um ano de front com JS e back com C# e .NET.
   Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar. <br/> <br/>
 </p>
+<p align="center">
+Estudando Laravel, Python, Data Science e Machine Learning </p>  
+</p>
+
 <div align="center">
   
 |<h3> Informações não tão necessárias: </h3> | <h3> Outros lugares que você pode me encontrar: </h3> |
