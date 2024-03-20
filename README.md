@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="./imgs/giphy.gif" width="80px" height="80px" />  Olá, eu sou a Janna 👋 </h1>
+<h1 align="center"> <img src="./explorer.gif" width="80px" height="80px" /> <br/> Olá, eu sou a Janna! </h1>
 
 <h3> Conheça-me um pouquinho: </h3>
 
@@ -7,8 +7,7 @@
   Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
   ter certeza do que desejo para meu futuro. <br/><br/>
 
-  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando um ano de front com JS e back com C# e .NET.
-  Não quero parar por aqui, ainda tenho muito a aprender e um <b>sonho</b> para alcançar. <br/> <br/>
+  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando um ano de front com JS e back com C# e .NET.<br/> <br/>
 </p>
 <p align="center">
 Estudando Laravel, Python, Data Science e Machine Learning. </p>  
