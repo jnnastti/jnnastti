@@ -3,7 +3,7 @@
 <h3> Conheça-me um pouquinho: </h3>
 
 <p>
-  Sou formada no curso técnico em <b>informática/programação</b> e atualmente estou graduando <b>Ciência da computação</b> na UNESC onde também já colaborei com <b>pesquisas</b> orientadas. 
+  Sou formada no curso técnico em <b>informática/programação</b> e bacharel em <b>Ciência da computação</b> pela UNESC onde também já colaborei com <b>pesquisas</b> orientadas. 
   Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
   ter certeza do que desejo para meu futuro. <br/><br/>
 
