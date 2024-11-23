@@ -7,7 +7,7 @@
   Desde mais nova tive interesse na área de TI e, quando tive oportunidade de iniciar meus estudos, descobri nela uma nova realização e passei a 
   ter certeza do que desejo para meu futuro. <br/><br/>
 
-  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando um ano de front com JS e back com C# e .NET.<br/> <br/>
+  Atualmente trabalho como desenvolvedora <b>back-end</b>, onde utilizamos PHP, porém também auxílio em algumas etapas do <b>front-end</b>, utilizando JS. Tenho experiência nas duas áreas, trabalhando a mais de um ano de front com JS, um ano no back com C# e .NET, e dois anos com PHP.<br/> <br/>
 </p>
 <p align="center">
 Estudando Laravel, Python, Data Science e Machine Learning. </p>  
